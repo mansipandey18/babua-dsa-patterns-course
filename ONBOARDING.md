@@ -30,11 +30,11 @@ This sheet is designed to help onboard new learners into the course.
 | 8   | 118.2 Pascal's Triangle (Code)                         | [🎥 Watch Video](https://www.youtube.com/watch?v=ELo7RR-Isjk&list=PLVItHqpXY_DD8Vyz2eC-yem_Mbu4Peuin&index=8)  | ✅      |
 | 9   | 344.1 Reverse String (Theory)                          | [🎥 Watch Video](https://www.youtube.com/watch?v=SfE6EOTy3As&list=PLVItHqpXY_DD8Vyz2eC-yem_Mbu4Peuin&index=9)  | ✅      |
 | 10  | 344.2 Reverse String (Code)                            | [🎥 Watch Video](https://www.youtube.com/watch?v=0uJjOlNOrQ0&list=PLVItHqpXY_DD8Vyz2eC-yem_Mbu4Peuin&index=10) | ✅      |
-| 11  | 0. Linked List Introduction                            | [🎥 Watch Video](https://www.youtube.com/watch?v=tbrVeBu0_NY&list=PLVItHqpXY_DC3UTWNaskA1Q-1Gv-uAAb0)          | ☐      |
-| 12  | 707.1 Design Linked List (Theory)                      | [🎥 Watch Video](https://www.youtube.com/watch?v=ZWtxxHEuCdU&list=PLVItHqpXY_DC3UTWNaskA1Q-1Gv-uAAb0&index=2)  | ☐      |
-| 13  | 707.2 Design Linked List (Code)                        | [🎥 Watch Video](https://www.youtube.com/watch?v=MLeTJR81O4E&list=PLVItHqpXY_DC3UTWNaskA1Q-1Gv-uAAb0&index=3)  | ☐      |
-| 14  | 0. Introduction to Queues                              | [🎥 Watch Video](https://www.youtube.com/watch?v=6Q-VOnii7FI&list=PLVItHqpXY_DAhbgYYowesZFXNwXHVvasj)          | ☐      |
-| 15  | 622. Design Circular Queue                             | [🎥 Watch Video](https://www.youtube.com/watch?v=CrZzJOyjQFE&list=PLVItHqpXY_DAhbgYYowesZFXNwXHVvasj&index=2)  | ☐      |
+| 11  | 0. Linked List Introduction                            | [🎥 Watch Video](https://www.youtube.com/watch?v=tbrVeBu0_NY&list=PLVItHqpXY_DC3UTWNaskA1Q-1Gv-uAAb0)          | ✅      |
+| 12  | 707.1 Design Linked List (Theory)                      | [🎥 Watch Video](https://www.youtube.com/watch?v=ZWtxxHEuCdU&list=PLVItHqpXY_DC3UTWNaskA1Q-1Gv-uAAb0&index=2)  | ✅      |
+| 13  | 707.2 Design Linked List (Code)                        | [🎥 Watch Video](https://www.youtube.com/watch?v=MLeTJR81O4E&list=PLVItHqpXY_DC3UTWNaskA1Q-1Gv-uAAb0&index=3)  | ✅      |
+| 14  | 0. Introduction to Queues                              | [🎥 Watch Video](https://www.youtube.com/watch?v=6Q-VOnii7FI&list=PLVItHqpXY_DAhbgYYowesZFXNwXHVvasj)          | ✅      |
+| 15  | 622. Design Circular Queue                             | [🎥 Watch Video](https://www.youtube.com/watch?v=CrZzJOyjQFE&list=PLVItHqpXY_DAhbgYYowesZFXNwXHVvasj&index=2)  | ✅      |
 | 16  | Queue Methods For Interviews                           | [🎥 Watch Video](https://www.youtube.com/watch?v=CClHsoo5CrQ&list=PLVItHqpXY_DAhbgYYowesZFXNwXHVvasj&index=3)  | ☐      |
 | 17  | 705. Design HashSet                                    | [🎥 Watch Video](https://www.youtube.com/watch?v=NfTyAM6T7to&list=PLVItHqpXY_DC3jKLtYYyM26ZdofoVVtpo)          | ☐      |
 | 18  | 706. Design HashMap                                    | [🎥 Watch Video](https://www.youtube.com/watch?v=Q2dzzbFqKmo&list=PLVItHqpXY_DC3jKLtYYyM26ZdofoVVtpo&index=2)  | ☐      |
