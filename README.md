@@ -101,6 +101,8 @@ Links will be updated as the series goes live!
 | 33 | Day 33/90 - ⚡ 2 HARD In-Place Linked List Manipulation Questions - DSA Pattern #5  | [Watch Now](https://www.youtube.com/watch?v=FmoPYYw3xhY&list=PLVItHqpXY_DDFNeS6NUUoRsloyaPRdl1l&index=52) | [Notes](https://github.com/team-codebug/babua-dsa-patterns-course/tree/main/33_Day) | ✅ |
 | X | 🔥 Big Announcement 🎉 We are launching our "FIRST PAID" Course | [Watch Now](https://www.youtube.com/watch?v=ykz0Q1UuGuA&list=PLVItHqpXY_DDFNeS6NUUoRsloyaPRdl1l&index=53) | [Notes]() | ✅ |
 | 34 | Day 34/90 -⚡2 MEDIUM In-Place Linked List Manipulation Questions - DSA Pattern #5 | [Watch Now](https://www.youtube.com/watch?v=A4Ooc-siJsw&list=PLVItHqpXY_DDFNeS6NUUoRsloyaPRdl1l&index=54) | [Notes](https://github.com/team-codebug/babua-dsa-patterns-course/tree/main/34_Day) | ✅ |
+| 35 | Day 35/90 -⚡2 HARD In-Place Linked List Manipulation Questions - DSA Pattern #5 | [Watch Now](https://www.youtube.com/watch?v=ksgUrqUQSDk&list=PLVItHqpXY_DDFNeS6NUUoRsloyaPRdl1l&index=55) | [Notes](https://github.com/team-codebug/babua-dsa-patterns-course/tree/main/35_Day) | ✅ |
+| 36 | Day 36/90 -⚡You Can Solve This Hard Linked List Problem Now - PROVE IT - DSA Pattern #5 | [Watch Now](https://www.youtube.com/watch?v=Ne16dr7_IYI&list=PLVItHqpXY_DDFNeS6NUUoRsloyaPRdl1l&index=56) | [Notes](https://github.com/team-codebug/babua-dsa-patterns-course/tree/main/36_Day) | ✅ |
 
 ---
 
